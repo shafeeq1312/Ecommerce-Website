@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav1{
+    background-color: black;
+    color: rgb(185, 36, 36);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+ul
+{
+    margin-left: 75%;
+    justify-content: space-evenly;
+}
+
+.h3,li,ul
+{
+    display: inline;
+
+}
+li{
+    color: wheat;
+    cursor: pointer;
+    margin-left: 20px;
+}
+li:hover{
+    color: blueviolet;
+}
+.header1{
+margin:30px;
+}
+.sc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#im
+{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}
+h3{
+    
+    align-items: center;
+    justify-content: center;
+
+}
+#name
+{
+  
+    align-items: center;
+    justify-content: center;
+}
+
+.im1
+{
+    display: flex;
+    margin: 30px;
+    flex-wrap: wrap ;
+    justify-content: space-evenly;
+}
+
+.div
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid black;
+    width: 300px;
+    object-fit: cover;
+    margin: 20px;
+    background-color:transparent;
+    color:rgb(0, 0, 0);
+    padding:3%;
+
+}
+.c1
+{ width: 30px;
+    height:30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: chocolate;
+    margin: 2px;
+
+}
+.c1
+{ width: 30px;
+    height:30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: chocolate;
+    margin: 2px;
+
+}
+.c1
+{ width: 30px;
+    height:30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: chocolate;
+    margin: 2px;
+
+}
+.c1
+{ width: 30px;
+    height:30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: chocolate;
+    margin: 2px;
+
+}
+.c1
+{ width: 30px;
+    height:30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: chocolate;
+    margin: 2px;
+
+}
+.c1
+{ width: 30px;
+    height:30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: chocolate;
+    margin: 2px;
+
+}
+.c1
+{ width: 30px;
+    height:30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: chocolate;
+    margin: 2px;
+
+}
+.c2
+{
+     width: 30px;
+       height:30px;
+        border: 1px solid black;
+        border-radius: 50%;
+        background-color: rgb(128, 97, 75);
+        margin: 2px;
+    
+}
+.c3
+
+    { width: 30px;
+        height:30px;
+        border: 1px solid black;
+        border-radius: 50%;
+        background-color: rgb(198, 210, 30);
+        margin: 2px;
+    
+    }
+    .colo
+    {
+        display: flex;
+
+    }
+    .div:hover
+    {
+        background-color:black;
+        color: rgb(117, 90, 90);
+        transition: 0.5s ease-out;
+        transform: scale(1.1);
+    }
