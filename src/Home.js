@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import Product from './Product'
 import About from './About'
 import { Link } from 'react-router-dom'
