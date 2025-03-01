@@ -173,3 +173,38 @@ h3{
         transition: 0.5s ease-out;
         transform: scale(1.1);
     }
+    .a1{
+        background-color: black;
+        color: rgb(197, 150, 150);
+        width:100vw;
+        height: 100vh;
+    }
+    .ab
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+      
+    }
+p
+{
+    margin-top: 25px;
+    color: aqua;
+    flex-wrap: wrap;
+   
+}
+hr{
+    margin-top: 60px;
+}
+.ba{
+    display: flex;
+   justify-content: space-evenly;
+}
+.app
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+    
